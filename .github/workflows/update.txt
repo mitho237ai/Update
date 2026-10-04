@@ -1,0 +1,1 @@
+185|1.5.5.185|Fixed a crash when closing the wizard during leftovers removal|Leftovers removal and list building can now be stopped at any time|Minor improvements and fixes
